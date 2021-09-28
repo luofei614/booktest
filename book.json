@@ -2,5 +2,12 @@
     "theme": "mina",
     "plugins": [
         "upyun"
-    ]
+    ],
+    "pluginsConfig": {
+        "upyun": {
+            "bucket": "thinkbook",
+            "username": "yaqieyz",
+            "password": "@encrypted:U2FsdGVkX19Gz5WcsunJdreOdG7EqTlWKNKB3pN\/mCCkOtP5s97bJ4uKdjOh5nymKCWpDaqRazwF7eVFdrsG0Q=="
+        }
+    }
 }
