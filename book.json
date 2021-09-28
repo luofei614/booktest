@@ -1,13 +1,11 @@
 {
     "theme": "mina",
-    "plugins": [
-        "upyun"
-    ],
     "pluginsConfig": {
         "upyun": {
             "bucket": "thinkbook",
             "username": "yaqieyz",
             "password": "@encrypted:U2FsdGVkX1+6KVzLBWPKUd6aGL96bWgt+VBA\/2YGMEvyyWi05dO9HG0r+6kBzPO6b5PJP0Zlk6jVIZK+iuXJ7g=="
         }
-    }
+    },
+    "title": "全世界都关注的NFT艺术到底是什么？"
 }
