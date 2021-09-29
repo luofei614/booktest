@@ -3,8 +3,8 @@
     "pluginsConfig": {
         "upyun": {
             "bucket": "thinkbook",
-            "username": "yaqieyz",
-            "password": "@encrypted:U2FsdGVkX1+6KVzLBWPKUd6aGL96bWgt+VBA\/2YGMEvyyWi05dO9HG0r+6kBzPO6b5PJP0Zlk6jVIZK+iuXJ7g=="
+            "username": "thinkbookadmin",
+            "password": "@encrypted:U2FsdGVkX192T9LsFP9DfyH4KeIR5lYN9m3MQW9hUqX2xbcolRPwKocjtcGKze0wr+0dQY61bd\/e8TcNBASgEQ=="
         }
     },
     "plugins": [
