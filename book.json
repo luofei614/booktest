@@ -1,5 +1,4 @@
 {
-    "theme": "mina",
     "pluginsConfig": {
         "upyun": {
             "bucket": "thinkbook",
@@ -10,5 +9,6 @@
     "plugins": [
         "upyun"
     ],
-    "title": "全世界都关注的NFT艺术到底是什么？"
+    "title": "全世界都关注的NFT艺术到底是什么？",
+    "theme": "mina"
 }
